@@ -2,6 +2,6 @@
 
 #include <stdio.h>
   int main(){
-    printf("O primeiro programa a gente nunca esquece");
+    printf("O primeiro programa a gente nunca esquece\n");
     return 0;
   }
